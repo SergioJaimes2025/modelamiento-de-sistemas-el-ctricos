@@ -1,8 +1,11 @@
-## Energía potencial
+## Algebra de bloques
+- ¿Qué es un Bloque Funcional en un Diagrama de Bloques?
 
-- En los sistemas mecánicos la energía potencial cambia de acuerdo a su posición (con respecto a una referencia).
-- En los sistemas mecánicos los resortes y las masas almacenan energía potencial.
-- La energía potencial es equivalente al trabajo realizado por la fuerza externa.
+Los diagramas de bloques son representaciones gráficas que utilizamos para describir sistemas complejos.
+
+Permiten visualizar el flujo de señales o información a través de diferentes componentes o etapas.
+
+Son ampliamente usados en ingeniería, especialmente en control automático y procesamiento de señales.
 
 \[ U = \int_{x_0}^{x} mg \, dx = mgh \]
 
